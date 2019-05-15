@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\ProductSaveLoad\ProductSaveLoad\bin\Debug\netcoreapp2.2\ProductSaveLoad.deps.json
+C:\Users\Alex\source\repos\ProductSaveLoad\ProductSaveLoad\bin\Debug\netcoreapp2.2\ProductSaveLoad.runtimeconfig.json
+C:\Users\Alex\source\repos\ProductSaveLoad\ProductSaveLoad\bin\Debug\netcoreapp2.2\ProductSaveLoad.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\ProductSaveLoad\ProductSaveLoad\bin\Debug\netcoreapp2.2\ProductSaveLoad.dll
+C:\Users\Alex\source\repos\ProductSaveLoad\ProductSaveLoad\obj\Debug\netcoreapp2.2\ProductSaveLoad.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ProductSaveLoad\ProductSaveLoad\obj\Debug\netcoreapp2.2\ProductSaveLoad.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ProductSaveLoad\ProductSaveLoad\obj\Debug\netcoreapp2.2\ProductSaveLoad.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ProductSaveLoad\ProductSaveLoad\bin\Debug\netcoreapp2.2\ProductSaveLoad.pdb
+C:\Users\Alex\source\repos\ProductSaveLoad\ProductSaveLoad\obj\Debug\netcoreapp2.2\ProductSaveLoad.dll
+C:\Users\Alex\source\repos\ProductSaveLoad\ProductSaveLoad\obj\Debug\netcoreapp2.2\ProductSaveLoad.pdb
